@@ -1,0 +1,61 @@
+,mutual_information
+timestamp,0.0
+CPU (%),0.20510029179175193
+CPU system (%),0.19486561299984628
+memory (GB),0.10522278667691487
+threads,0.1111221021180635
+ops_sda,0.0800797093006902
+util_sda (%),0.07329522902029662
+available (MB),0.0
+writeback (MB),0.1413937170464159
+cpu_intr,0.10840664798258404
+io (MB/s),0.2585800479989643
+load,0.3245935324139325
+pgpgio,0.324543232684371
+processes,0.21516486825860226
+ram (GB),0.2246193576811828
+network_bandwidth,0.10152619552532016
+packet_loss_rate,0.04246732297260647
+disk_free_space,0.013748371179492347
+swap_usage,0.01367022556340447
+disk_read_speed,0.04429451113664595
+disk_write_speed,0.044454747368364966
+network_latency,0.04913900269129012
+network_errors,0.11650318603900778
+process_cpu_usage,0.07918764413454937
+process_memory_usage,0.08831825248624114
+firewall_packets_dropped,0.018135411522605338
+firewall_connections_blocked,0.019443496540497485
+active_users,0.014148055515374347
+root_partition_usage,0.032605330072111416
+user_partition_usage,0.03114247920631974
+system_uptime,0.01376489068903708
+docker_container_count,0.01395714351332189
+CPU_steal_time,0.015919065027788948
+CPU_guest_time,0.014194722263622506
+CPU_nice_time,0.012940901845544195
+TCP Connection Count,0.049916897426126816
+UDP Packet Count,0.04853049653524755
+Incoming HTTP Requests per Second,0.07431271136621587
+Outgoing HTTP Requests per Second,0.07344017021578586
+Incoming HTTPS Requests per Second,0.04728564779817601
+Outgoing HTTPS Requests per Second,0.062349824641191764
+Database Read Operations per Second,0.09520309519807046
+Database Write Operations per Second,0.09367980550372645
+Database Latency (ms),0.05853929894647991
+Network ICMP Echo Latency,0.048691154447486173
+Network ICMP Echo Loss Rate,0.04518986001281422
+Network TCP Retransmission Rate,0.014172694208060221
+Network UDP Loss Rate,0.024645923208554077
+Network TCP Connection Reset Rate,0.03374950780197894
+Network UDP Datagram Size,0.042355460102365905
+Network Port Utilization,0.04925440001523684
+Disk Write Operations per Second,0.04333286090025856
+Network Interface Throughput,0.028012368437804636
+CPU Utilization by Core,0.03776871955244121
+CPU Load Average,0.029773737514118714
+Disk I/O Utilization by Process,0.03689254376252071
+Memory Usage by Process,0.06005393494144817
+Network Interface Broadcast Packets,0.024745041320896943
+Network Interface Multicast Packets,0.015205383799079542
+TCP Connection Count by State,0.013105304732390355
